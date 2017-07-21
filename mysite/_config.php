@@ -21,3 +21,4 @@ if (class_exists('SiteTree')) SiteTree::enable_nested_urls();
 if(Director::isLive()) {
 	Director::forceSSL();
 }
+Authenticator::set_default_authenticator('SAMLAuthenticator');
