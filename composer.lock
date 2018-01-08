@@ -85,16 +85,16 @@
         },
         {
             "name": "composer/installers",
-            "version": "v1.4.0",
+            "version": "v1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b"
+                "reference": "049797d727261bf27f2690430d935067710049c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b",
-                "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b",
+                "url": "https://api.github.com/repos/composer/installers/zipball/049797d727261bf27f2690430d935067710049c2",
+                "reference": "049797d727261bf27f2690430d935067710049c2",
                 "shasum": ""
             },
             "require": {
@@ -106,7 +106,7 @@
             },
             "require-dev": {
                 "composer/composer": "1.0.*@dev",
-                "phpunit/phpunit": "4.1.*"
+                "phpunit/phpunit": "^4.8.36"
             },
             "type": "composer-plugin",
             "extra": {
@@ -177,15 +177,18 @@
                 "lavalite",
                 "lithium",
                 "magento",
+                "majima",
                 "mako",
                 "mediawiki",
                 "modulework",
+                "modx",
                 "moodle",
                 "osclass",
                 "phpbb",
                 "piwik",
                 "ppi",
                 "puppet",
+                "pxcms",
                 "reindex",
                 "roundcube",
                 "shopware",
@@ -198,7 +201,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-08-09T07:53:48+00:00"
+            "time": "2017-12-29T09:13:20+00:00"
         },
         {
             "name": "embed/embed",
@@ -896,12 +899,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "57824ff8febd2433b5e16c40174b7a4afa4dd86d"
+                "reference": "1f4f6a106eb7bf14040e23b07aeec275200b07b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/57824ff8febd2433b5e16c40174b7a4afa4dd86d",
-                "reference": "57824ff8febd2433b5e16c40174b7a4afa4dd86d",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/1f4f6a106eb7bf14040e23b07aeec275200b07b7",
+                "reference": "1f4f6a106eb7bf14040e23b07aeec275200b07b7",
                 "shasum": ""
             },
             "require": {
@@ -953,7 +956,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-12-14 20:15:10"
+            "time": "2018-01-08 17:18:32"
         },
         {
             "name": "md/rss-display",
@@ -2740,12 +2743,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplepie/simplepie.git",
-                "reference": "c4defa9474fd3a5620d7b19852c68e5d9782a4c6"
+                "reference": "25aee70269e0d96446c4211db1ce80a55f59a922"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplepie/simplepie/zipball/c4defa9474fd3a5620d7b19852c68e5d9782a4c6",
-                "reference": "c4defa9474fd3a5620d7b19852c68e5d9782a4c6",
+                "url": "https://api.github.com/repos/simplepie/simplepie/zipball/25aee70269e0d96446c4211db1ce80a55f59a922",
+                "reference": "25aee70269e0d96446c4211db1ce80a55f59a922",
                 "shasum": ""
             },
             "require": {
@@ -2792,7 +2795,7 @@
                 "feeds",
                 "rss"
             ],
-            "time": "2017-12-19 07:31:37"
+            "time": "2018-01-08 13:50:51"
         },
         {
             "name": "symbiote/silverstripe-addressable",
